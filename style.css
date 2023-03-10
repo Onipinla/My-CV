@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(224, 223, 223);
+}
+
+hr {
+    border-style: none;
+    border-bottom: dotted;
+    border-color: rgba(72, 129, 133, 0.726);
+    border-width: 3px;
+    width: 25%;
+}
+img {height: 120px;}
+
+h1 {color: #353036ee;}
+h3 {color: #353036ee;}
+hr {color: #353036ee;}
